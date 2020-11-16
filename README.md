@@ -5,7 +5,7 @@ git clone https://github.com/nazell/marlboro.git<br>
 cd marlboro<br>
 bash index.sh<br>
 👀====================👀
--Termux:<br>
+<b>-Termux:</b><br>
 pkg install grep<br>
 pkg install gawk<br>
 pkg install shuf<br>
