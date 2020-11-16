@@ -11,6 +11,6 @@ pkg install gawk<br>
 pkg install shuf<br>
 pkg install jq<br>
 pkg install curl</i></b><br>
-<i>git clone</i> https://github.com/nazell/marlboro.git<br>
-<i>cd marlboro</i><br>
-<i>bash index.sh</i><br>
+<i><b>git clone</b></i> https://github.com/nazell/marlboro.git<br>
+<i><b>cd marlboro</b></i><br>
+<i><b>bash index.sh</b></i><br>
