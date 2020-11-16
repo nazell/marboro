@@ -15,4 +15,4 @@ pkg install curl<br>
 git clone https://github.com/nazell/marlboro.git<br>
 cd marlboro<br>
 bash index.sh<br>
-••••••••••••••••••••••••••••••••••••••••••
+•••••••••••••••••••••••••••••••••••••••••
