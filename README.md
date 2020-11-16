@@ -6,7 +6,7 @@ cd marlboro<br>
 bash index.sh<br>
 👀====================👀
 <b>-Termux:</b><br>
-<font color="red">pkg install grep</font><br>
+<i>pkg install grep</i><br>
 pkg install gawk<br>
 pkg install shuf<br>
 pkg install jq<br>
