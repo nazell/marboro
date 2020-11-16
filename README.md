@@ -1,7 +1,8 @@
 •••••••••••••••••••••••••••••••••••••••••
 <b>How to USE:</b><br>
--Linux
-sudo apt-get install jq<br>
+<b>-Linux
+sudo</b><br>
+apt-get install jq<br>
 git clone https://github.com/nazell/marlboro.git<br>
 cd marlboro<br>
 bash index.sh<br>
