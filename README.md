@@ -6,11 +6,11 @@ cd marlboro<br>
 bash index.sh<br>
 👀====================👀
 <b>-Termux:</b><br>
-<font color="red">pkg install grep<br>
+<font color="red">pkg install grep</font><br>
 pkg install gawk<br>
 pkg install shuf<br>
 pkg install jq<br>
-pkg install curl<br></font>
+pkg install curl<br>
 git clone https://github.com/nazell/marlboro.git<br>
 cd marlboro<br>
 bash index.sh<br>
