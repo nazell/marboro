@@ -10,7 +10,7 @@ bash index.sh<br>
 pkg install gawk<br>
 pkg install shuf<br>
 pkg install jq<br>
-pkg install curl<br>
-git clone</i> https://github.com/nazell/marlboro.git<br>
-cd marlboro<br>
-bash index.sh<br>
+pkg install curl</i><br>
+<i>git clone</i> https://github.com/nazell/marlboro.git<br>
+<i>cd marlboro<br>
+bash index.sh</i><br>
